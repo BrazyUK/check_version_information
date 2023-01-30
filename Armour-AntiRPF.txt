@@ -1,0 +1,1 @@
+{"version":"1.0.5", "notes":"You can now send a test Discord log by running the in-game command /rpfwebhooktest. See full changelog at https://discord.gg/ArmourAC."}
